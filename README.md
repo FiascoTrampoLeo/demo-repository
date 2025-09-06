@@ -1,4 +1,9 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+Matheus Cardoso - RM 564898
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+Caique Sousa - RM 563621
+
+Paulo Gabriel - RM 566446
+
+Davi Gravina - RM 565619
+
+William Stahl - RM 562800
