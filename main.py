@@ -17,6 +17,8 @@ def main():
         print("5. Alerta de Estoque Baixo")
         print("6. Listar Todos os Produtos")
         print("7. Sair")
+        print("===== ====== ====== ====== =====")
+        print("")
         
         opcao = input("Escolha uma opção: ")
 
@@ -40,3 +42,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
