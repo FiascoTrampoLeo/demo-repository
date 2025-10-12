@@ -28,9 +28,3 @@ Relatórios
 - Relatório de Vendas: Detalha todas as vendas realizadas, incluindo itens, valores, descontos e faturamento total.
 - Histórico de Movimentações: Registra e exibe todas as entradas e saídas de estoque (manuais, por venda ou por ajuste), mostrando data, tipo de movimentação e quantidade.
 
-Como Executar:
-Certifique-se de ter o Python 3 instalado em seu sistema.
-Salve todos os arquivos do projeto na mesma pasta
-Abra um terminal ou prompt de comando no diretório do projeto.
-Execute o arquivo principal.
-O menu principal do sistema será exibido. Siga as instruções na tela para usar as funcionalidades.
